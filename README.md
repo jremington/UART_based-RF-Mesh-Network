@@ -1,4 +1,4 @@
-# UART_based-RF-Mesh-Network
+# UART_based-RF-Mesh-Network for Arduino
 
 This project is based on the following, recommended tutorial   
  http://duino4projects.com/simple-arduino-wireless-mesh/
